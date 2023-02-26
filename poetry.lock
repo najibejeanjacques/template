@@ -600,7 +600,7 @@ testing = ["big-o", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "04c2ee6e8d1cf3dc655251786af36cdd10cfb8ec1176a539d5aad5ad03dc40b6"
+content-hash = "78b7d857e3f26b222f6b2b6e7870add1115fb61639f0960fbbe39824aa9c6800"
 
 [metadata.files]
 antlr4-python3-runtime = [

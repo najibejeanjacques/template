@@ -1,5 +1,6 @@
 datasets:
   data: /home/ouedraogo/mlops/code_template/data/raw/entreprise.csv
+  final: /home/ouedraogo/mlops/code_template/data/final.csv
   encoding: utf-8
 
 pipeline:
