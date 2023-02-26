@@ -1,0 +1,6 @@
+datasets:
+  data: ../data/raw/entreprise.csv
+  encoding: utf-8
+pipeline:
+  pipeline01: decisiontree
+target: match

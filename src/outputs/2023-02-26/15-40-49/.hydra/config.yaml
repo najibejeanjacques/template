@@ -1,0 +1,6 @@
+datasets:
+  data: /home/ouedraogo/mlops/code_template/data/raw/entreprise.csv
+  encoding: utf-8
+pipeline:
+  pipeline01: decisiontree
+target: match
